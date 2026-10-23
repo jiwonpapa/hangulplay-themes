@@ -1,0 +1,14 @@
+{
+  "id": "ocean",
+  "version": 1,
+  "title": "바다 여행",
+  "description": "바다에 온 친구들과 조개·불가사리를 따라 써요.",
+  "minimumApp": 26,
+  "maximumApp": 1000000,
+  "bytes": 4979475,
+  "sha256": "d7e14426c3a66c8444245d098a57000dfbb61a07fd4c993f3bcc9bfc3095e74b",
+  "url": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/ocean-v1/ocean.zip",
+  "thumbnailUrl": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/ocean-v1/thumbnail.png",
+  "thumbnailSha256": "130151928cb8b070cec752951437e7b81a06b22c9f3b98fc29784bcf06d98874",
+  "bundled": true
+}

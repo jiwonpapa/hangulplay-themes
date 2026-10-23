@@ -1,0 +1,14 @@
+{
+  "id": "space",
+  "version": 1,
+  "title": "우주 탐험",
+  "description": "우주복을 입은 친구들과 로켓·달·행성을 따라 써요.",
+  "minimumApp": 26,
+  "maximumApp": 1000000,
+  "bytes": 4780082,
+  "sha256": "7d5f4c78399ef57ad2950f9279e6afad5c9e897a5c118e93ae4f63356643e698",
+  "url": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/space-v1/space.zip",
+  "thumbnailUrl": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/space-v1/thumbnail.png",
+  "thumbnailSha256": "d911694b5e54bef829ee4fba9ca29ad4df131a73b288133fafd4548a8d9c0426",
+  "bundled": true
+}
