@@ -1,0 +1,13 @@
+{
+  "id": "dinosaur",
+  "version": 1,
+  "title": "공룡 숲 탐험",
+  "description": "공룡 옷을 입은 다섯 친구와 알·발자국을 따라 써요.",
+  "minimumApp": 26,
+  "maximumApp": 1000000,
+  "bytes": 5565398,
+  "sha256": "a69e44f73394a613b482bcae33013c13aacd1a842062ef1e557a410cfddb52bd",
+  "url": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/dinosaur-v1/dinosaur.zip",
+  "thumbnailUrl": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/dinosaur-v1/thumbnail.png",
+  "thumbnailSha256": "85090a7af7d8e902bb9260e79c26ca969e7e8b441d39677d141046169bc1a275"
+}
