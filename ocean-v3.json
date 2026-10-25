@@ -1,0 +1,14 @@
+{
+  "id": "ocean",
+  "version": 3,
+  "title": "바다 여행",
+  "description": "폰·태블릿에 맞는 배경과 친구 반응, 테마 따라쓰기 아이템.",
+  "minimumApp": 57,
+  "maximumApp": 1000000,
+  "bytes": 11621293,
+  "sha256": "3ce0cfa9acc3fda6503831edca39877a960cd593bfc8e5ee6ac0532d0a7c5969",
+  "url": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/ocean-v3/ocean.zip",
+  "thumbnailUrl": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/ocean-v3/thumbnail.png",
+  "thumbnailSha256": "130151928cb8b070cec752951437e7b81a06b22c9f3b98fc29784bcf06d98874",
+  "bundled": true
+}

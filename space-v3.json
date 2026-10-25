@@ -1,0 +1,14 @@
+{
+  "id": "space",
+  "version": 3,
+  "title": "우주 탐험",
+  "description": "폰·태블릿에 맞는 배경과 친구 반응, 테마 따라쓰기 아이템.",
+  "minimumApp": 57,
+  "maximumApp": 1000000,
+  "bytes": 10989974,
+  "sha256": "984bc7486aaa436db0253a3f10ecb16c44280d6f96a98d950cdcbc2ecb908e04",
+  "url": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/space-v3/space.zip",
+  "thumbnailUrl": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/space-v3/thumbnail.png",
+  "thumbnailSha256": "d911694b5e54bef829ee4fba9ca29ad4df131a73b288133fafd4548a8d9c0426",
+  "bundled": true
+}

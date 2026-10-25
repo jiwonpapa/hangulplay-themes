@@ -1,0 +1,14 @@
+{
+  "id": "christmas",
+  "version": 3,
+  "title": "포근한 크리스마스",
+  "description": "폰·태블릿에 맞는 배경과 친구 반응, 테마 따라쓰기 아이템.",
+  "minimumApp": 57,
+  "maximumApp": 1000000,
+  "bytes": 11888658,
+  "sha256": "f3d37c3745053d31d5856a6f5b0120206bcf01f91f3e4ca98fefef2df43ffcde",
+  "url": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/christmas-v3/christmas.zip",
+  "thumbnailUrl": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/christmas-v3/thumbnail.png",
+  "thumbnailSha256": "885d98616c7d7885604e5b5c24de40be50c5e3182edead642f2521695a2a782d",
+  "bundled": false
+}

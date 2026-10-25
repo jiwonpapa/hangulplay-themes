@@ -1,0 +1,14 @@
+{
+  "id": "dinosaur",
+  "version": 3,
+  "title": "공룡 숲 탐험",
+  "description": "폰·태블릿에 맞는 배경과 친구 반응, 테마 따라쓰기 아이템.",
+  "minimumApp": 57,
+  "maximumApp": 1000000,
+  "bytes": 12290321,
+  "sha256": "579ab4a01cd4a88ae1174d39d85cc4ec2816a9735c164e05cd137e74880602eb",
+  "url": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/dinosaur-v3/dinosaur.zip",
+  "thumbnailUrl": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/dinosaur-v3/thumbnail.png",
+  "thumbnailSha256": "85090a7af7d8e902bb9260e79c26ca969e7e8b441d39677d141046169bc1a275",
+  "bundled": false
+}
