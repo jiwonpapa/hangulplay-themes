@@ -1,0 +1,14 @@
+{
+  "id": "halloween",
+  "version": 2,
+  "title": "반짝 할로윈",
+  "description": "친구를 누르면 윙크해요. 테마에 어울리는 배경 움직임과 따라쓰기 아이템.",
+  "minimumApp": 56,
+  "maximumApp": 1000000,
+  "bytes": 6869375,
+  "sha256": "4beae750610626c9a95f286eda39cab51f79ce26619ec9500132ba296b5c9336",
+  "url": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/halloween-v2/halloween.zip",
+  "thumbnailUrl": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/halloween-v2/thumbnail.png",
+  "thumbnailSha256": "a01684d633f49bf2da8a7d0db4a33af343e7d770145724c190e64e60c3ef267f",
+  "bundled": false
+}

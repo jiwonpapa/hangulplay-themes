@@ -1,0 +1,14 @@
+{
+  "id": "christmas",
+  "version": 1,
+  "title": "포근한 크리스마스",
+  "description": "친구를 누르면 윙크해요. 테마에 어울리는 배경 움직임과 따라쓰기 아이템.",
+  "minimumApp": 56,
+  "maximumApp": 1000000,
+  "bytes": 7729685,
+  "sha256": "72de21c5164e8fefe50c0425311ae9f5b75c9304b94c4c15648bc47833e700c1",
+  "url": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/christmas-v1/christmas.zip",
+  "thumbnailUrl": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/christmas-v1/thumbnail.png",
+  "thumbnailSha256": "885d98616c7d7885604e5b5c24de40be50c5e3182edead642f2521695a2a782d",
+  "bundled": false
+}

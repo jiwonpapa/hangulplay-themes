@@ -1,0 +1,14 @@
+{
+  "id": "dinosaur",
+  "version": 2,
+  "title": "공룡 숲 탐험",
+  "description": "친구를 누르면 윙크해요. 테마에 어울리는 배경 움직임과 따라쓰기 아이템.",
+  "minimumApp": 56,
+  "maximumApp": 1000000,
+  "bytes": 7442270,
+  "sha256": "441bb989b4e379715d028663ed6a7cb4de05bdd9d5a28be5cddadbaf66da8bde",
+  "url": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/dinosaur-v2/dinosaur.zip",
+  "thumbnailUrl": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/dinosaur-v2/thumbnail.png",
+  "thumbnailSha256": "85090a7af7d8e902bb9260e79c26ca969e7e8b441d39677d141046169bc1a275",
+  "bundled": false
+}

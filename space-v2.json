@@ -1,0 +1,14 @@
+{
+  "id": "space",
+  "version": 2,
+  "title": "우주 탐험",
+  "description": "친구를 누르면 윙크해요. 테마에 어울리는 배경 움직임과 따라쓰기 아이템.",
+  "minimumApp": 56,
+  "maximumApp": 1000000,
+  "bytes": 6795102,
+  "sha256": "7672b20ed897c0b598acd1ef2795643793525c483ba59166e3541c561643a820",
+  "url": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/space-v2/space.zip",
+  "thumbnailUrl": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/space-v2/thumbnail.png",
+  "thumbnailSha256": "d911694b5e54bef829ee4fba9ca29ad4df131a73b288133fafd4548a8d9c0426",
+  "bundled": true
+}

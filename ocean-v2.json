@@ -1,0 +1,14 @@
+{
+  "id": "ocean",
+  "version": 2,
+  "title": "바다 여행",
+  "description": "친구를 누르면 윙크해요. 테마에 어울리는 배경 움직임과 따라쓰기 아이템.",
+  "minimumApp": 56,
+  "maximumApp": 1000000,
+  "bytes": 6930752,
+  "sha256": "3e386bbe6ffe8a0decbb2f9cebda32e92146b29c9c3d76455cc420e72c84968e",
+  "url": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/ocean-v2/ocean.zip",
+  "thumbnailUrl": "https://github.com/jiwonpapa/hangulplay-themes/releases/download/ocean-v2/thumbnail.png",
+  "thumbnailSha256": "130151928cb8b070cec752951437e7b81a06b22c9f3b98fc29784bcf06d98874",
+  "bundled": true
+}
